@@ -1,4 +1,4 @@
-# SysEn-5888: Deep Learning
+# SysEn-5888/6886: Deep Learning
 
 This repository contains tutorial materials for the **SYSEN 5888/6888: Deep Learning** course at Cornell University. The tutorials guide you through the fundamentals of deep learning and progress toward advanced topics, covering environment setup, Python basics, CNNs, RNNs, Transformers, GANs, Reinforcement Learning, and Graph Neural Networks (GNNs).
 
@@ -43,7 +43,7 @@ Learn how to set up your environment with Python 3.8 and Jupyter via the Anacond
 <details>
 <summary><b>Tutorial 2: NumPy, Pandas, and Visualizations</b></summary>
 
-- **Notebook:** [Tutorial #2 - NumPy, Pandas, Visualizations](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%232-NumPy%2C%20Pandas%2C%20Visualizations%20.ipynb)
+- **Notebook:** [Tutorial #2 - NumPy, Pandas, Visualizations](./Tutorial%232-NumPy%2C%20Pandas%2C%20Visualizations%20.ipynb)
 
 Explore NumPy for array operations, Pandas for data manipulation, and various Python libraries for data visualization. These skills are essential for data preprocessing and exploratory data analysis.
 
@@ -58,7 +58,7 @@ Explore NumPy for array operations, Pandas for data manipulation, and various Py
 <details>
 <summary><b>Tutorial 3: Keras and TensorFlow Introduction</b></summary>
 
-- **Notebook:** [Tutorial #3 - Keras and TensorFlow Introduction](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%233-%20Keras%20and%20Tensorflow%20Introduction.ipynb)
+- **Notebook:** [Tutorial #3 - Keras and TensorFlow Introduction](./Tutorial%233-%20Keras%20and%20Tensorflow%20Introduction.ipynb)
 
 Get started with TensorFlow (version 2.5.0) and its high-level API, Keras. This tutorial covers installation, environment configuration, and training your first simple neural network.
 
@@ -73,7 +73,7 @@ Get started with TensorFlow (version 2.5.0) and its high-level API, Keras. This 
 <details>
 <summary><b>Tutorial 4: Basics of Vision CNN</b></summary>
 
-- **Notebook:** [Tutorial #4 - Basics of Vision CNN](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%234-%20Basics%20of%20Vision%20CNN.ipynb)
+- **Notebook:** [Tutorial #4 - Basics of Vision CNN](./Tutorial%234-%20Basics%20of%20Vision%20CNN.ipynb)
 
 Dive into Convolutional Neural Networks (CNNs) for computer vision tasks. Understand convolutional layers and build a model to classify handwritten digits from the MNIST dataset.
 
@@ -88,7 +88,7 @@ Dive into Convolutional Neural Networks (CNNs) for computer vision tasks. Unders
 <details>
 <summary><b>Tutorial 5: CNN in Practice</b></summary>
 
-- **Notebook:** [Tutorial #5 - CNN in Practice](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%235-%20CNN%20in%20Practice.ipynb)
+- **Notebook:** [Tutorial #5 - CNN in Practice](./Tutorial%235-%20CNN%20in%20Practice.ipynb)
 
 Learn about more advanced CNN architectures and practical techniques. Improve model performance using deeper architectures, various optimization techniques, and best practices.
 
@@ -103,7 +103,7 @@ Learn about more advanced CNN architectures and practical techniques. Improve mo
 <details>
 <summary><b>Tutorial 6: Transfer Learning</b></summary>
 
-- **Notebook:** [Tutorial #6 - Transfer Learning](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%236-%20Transfer%20learning.ipynb)
+- **Notebook:** [Tutorial #6 - Transfer Learning](./Tutorial%236-%20Transfer%20learning.ipynb)
 
 Leverage pre-trained models to solve new tasks. Learn how to fine-tune models and use TensorFlow Hub to quickly adapt learned representations for your specific problems.
 
@@ -118,7 +118,7 @@ Leverage pre-trained models to solve new tasks. Learn how to fine-tune models an
 <details>
 <summary><b>Tutorial 7: Object Detection and Segmentation</b></summary>
 
-- **Notebook:** [Tutorial #7 - Object Detection and Segmentation](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%237-%20Object%20detection%20and%20Segmentation.ipynb)
+- **Notebook:** [Tutorial #7 - Object Detection and Segmentation](./Tutorial%237-%20Object%20detection%20and%20Segmentation.ipynb)
 
 Discover how to detect objects in images using YOLOv3 and gain insights into image segmentation techniques.
 
@@ -133,7 +133,7 @@ Discover how to detect objects in images using YOLOv3 and gain insights into ima
 <details>
 <summary><b>Tutorial 8: Text & Sequences – Data and Embeddings</b></summary>
 
-- **Notebook:** [Tutorial #8 - Text and Sequences Working with Data](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%238-Text%20and%20Sequences%20Working%20with%20Data.ipynb)
+- **Notebook:** [Tutorial #8 - Text and Sequences Working with Data](./Tutorial%238-Text%20and%20Sequences%20Working%20with%20Data.ipynb)
 
 Get started with Natural Language Processing (NLP). Learn about text vectorization, skip-gram models, negative sampling, Bag-of-Words, and Word2Vec embeddings to handle text data.
 
@@ -148,7 +148,7 @@ Get started with Natural Language Processing (NLP). Learn about text vectorizati
 <details>
 <summary><b>Tutorial 9: Text & Sequences – RNN and CNN</b></summary>
 
-- **Notebook:** [Tutorial #9 - Text and Sequences RNN and CNN](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%239%20-%20Text%20and%20sequences%20RNN%20and%20CNN.ipynb)
+- **Notebook:** [Tutorial #9 - Text and Sequences RNN and CNN](./Tutorial%239%20-%20Text%20and%20sequences%20RNN%20and%20CNN.ipynb)
 
 Apply Recurrent Neural Networks (RNNs) and CNNs to text classification tasks. Train models for sentiment analysis using the IMDB dataset and understand how RNNs and CNNs capture linguistic patterns.
 
@@ -163,7 +163,7 @@ Apply Recurrent Neural Networks (RNNs) and CNNs to text classification tasks. Tr
 <details>
 <summary><b>Tutorial 10: Transformers Implementation</b></summary>
 
-- **Notebook:** [Tutorial #10 - Transformers Implementation](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%2310-%20Transformers%20Implementation.ipynb)
+- **Notebook:** [Tutorial #10 - Transformers Implementation](./Tutorial%2310-%20Transformers%20Implementation.ipynb)
 
 Learn the Transformer architecture for sequence-to-sequence tasks. Implement a Transformer model to translate Spanish to English and understand the underlying attention mechanisms.
 
@@ -178,7 +178,7 @@ Learn the Transformer architecture for sequence-to-sequence tasks. Implement a T
 <details>
 <summary><b>Tutorial 11: Generative Modeling – Variational Autoencoders (VAE)</b></summary>
 
-- **Notebook:** [Tutorial #11 - Generative Modeling VAE](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%2311-%20Generative%20Modeling%20VAE.ipynb)
+- **Notebook:** [Tutorial #11 - Generative Modeling VAE](./Tutorial%2311-%20Generative%20Modeling%20VAE.ipynb)
 
 Explore Variational Autoencoders (VAEs) for generative modeling. Build basic convolutional autoencoders and VAEs to generate new samples from learned latent representations.
 
@@ -193,7 +193,7 @@ Explore Variational Autoencoders (VAEs) for generative modeling. Build basic con
 <details>
 <summary><b>Tutorial 12: Generative Modeling – GAN</b></summary>
 
-- **Notebook:** [Tutorial #12 - Generative Modeling GAN](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%2312-%20Generative%20Modeling%20GAN.ipynb)
+- **Notebook:** [Tutorial #12 - Generative Modeling GAN](./Tutorial%2312-%20Generative%20Modeling%20GAN.ipynb)
 
 Delve into Generative Adversarial Networks (GANs). Train models to generate handwritten digits, perform image-to-image translation with conditional GANs, and translate images without paired datasets using CycleGAN.
 
@@ -208,7 +208,7 @@ Delve into Generative Adversarial Networks (GANs). Train models to generate hand
 <details>
 <summary><b>Tutorial 13: Deep Reinforcement Learning</b></summary>
 
-- **Notebook:** [Tutorial #13 - Deep Reinforcement Learning](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%2313-%20%20Deep%20Reinforcement%20Learning.ipynb)
+- **Notebook:** [Tutorial #13 - Deep Reinforcement Learning](./Tutorial%2313-%20%20Deep%20Reinforcement%20Learning.ipynb)
 
 Practice reinforcement learning with deep methods. Implement actor-critic approaches for the CartPole environment and apply Deep Deterministic Policy Gradient (DDPG) to the inverted pendulum control problem.
 
@@ -223,7 +223,7 @@ Practice reinforcement learning with deep methods. Implement actor-critic approa
 <details>
 <summary><b>Tutorial 14: GNN and Best Practices</b></summary>
 
-- **Notebook:** [Tutorial #14 - GNN and Best Practices](https://github.com/PEESEgroup/SysEn5888/blob/main/Tutorial%2314-%20%20GNN%20and%20Best%20Practices.ipynb)
+- **Notebook:** [Tutorial #14 - GNN and Best Practices](./Tutorial%2314-%20%20GNN%20and%20Best%20Practices.ipynb)
 
 Explore Graph Neural Networks (GNNs) using the Spektral library. Review deep learning best practices, including the Keras Functional API, callbacks, TensorBoard, hyperparameter optimization, model ensembling, multi-GPU, distributed training, and deploying training with TensorFlow Cloud.
 
